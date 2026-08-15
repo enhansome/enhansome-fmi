@@ -117,7 +117,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T12:38:56Z",
+            "last_commit": "2026-08-14T08:52:09Z",
             "owner": "modelon-community",
             "repo": "PyFMI",
             "stars": 227
@@ -230,7 +230,7 @@
             "last_commit": "2026-07-09T10:56:27Z",
             "owner": "ThummeTo",
             "repo": "FMI.jl",
-            "stars": 94
+            "stars": 96
           }
         },
         {
@@ -359,7 +359,7 @@
                 "last_commit": "2026-08-12T14:21:43Z",
                 "owner": "modelica",
                 "repo": "Reference-FMUs",
-                "stars": 222
+                "stars": 223
               }
             },
             {
@@ -415,7 +415,7 @@
                 "last_commit": "2026-07-09T10:56:27Z",
                 "owner": "ThummeTo",
                 "repo": "FMI.jl",
-                "stars": 94
+                "stars": 96
               }
             }
           ]
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:24:46.936Z",
+    "last_updated": "2026-08-15T03:22:40.345Z",
     "original_repository": "traversaro/awesome-fmi",
     "original_repository_sha": "c2f6eb1d2efbe2819fed36272441a0189139d330",
     "enhanced_repository": "enhansome/enhansome-fmi",
