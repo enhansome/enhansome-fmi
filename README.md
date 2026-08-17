@@ -44,7 +44,7 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units) that su
 #### Python
 
 * [FMPy](https://github.com/CATIA-Systems/FMPy) ⭐ 585 | 🐛 141 | 🌐 Python | 📅 2026-08-13 - Python package for loading and interacting with FMUs. It supports also the latest [System Structure and Parameterization (SSP standard)](https://www.modelica.org/projects). \[BSD]
-* [PyFMI](https://github.com/modelon-community/pyfmi) ⭐ 227 | 🐛 17 | 🌐 Python | 📅 2026-08-14 - Python package for loading and interacting with FMUs, based on the FMI Library. \[LGPL]
+* [PyFMI](https://github.com/modelon-community/pyfmi) ⭐ 226 | 🐛 17 | 🌐 Python | 📅 2026-08-14 - Python package for loading and interacting with FMUs, based on the FMI Library. \[LGPL]
 * [PythonFMU](https://github.com/NTNU-IHB/PythonFMU) ⭐ 177 | 🐛 25 | 🌐 Python | 📅 2025-12-12 - Framework for exporting Python code as FMUs. \[MIT]
 * [modestpy](https://github.com/sdu-cfei/modest-py) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2022-06-22 - Python package for parameter estimation in FMUs. \[BSD]
 * [SimulatorToFMU](https://github.com/LBNL-ETA/SimulatorToFMU) ⭐ 45 | 🐛 14 | 🌐 Python | 📅 2022-12-23 - Python package that allows to export a memoryless Python-driven simulation program or script as a FMU. \[BSD]
@@ -125,4 +125,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

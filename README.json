@@ -120,7 +120,7 @@
             "last_commit": "2026-08-14T08:52:09Z",
             "owner": "modelon-community",
             "repo": "PyFMI",
-            "stars": 227
+            "stars": 226
           }
         },
         {
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:29:05.377Z",
+    "last_updated": "2026-08-17T03:29:17.981Z",
     "original_repository": "traversaro/awesome-fmi",
     "original_repository_sha": "c2f6eb1d2efbe2819fed36272441a0189139d330",
     "enhanced_repository": "enhansome/enhansome-fmi",
