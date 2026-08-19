@@ -2,343 +2,373 @@
   "items": [
     {
       "description": "The latest (as of June 2024) stable release of the FMI 2 specification is , released on 2022-12-1. You can find the text of the FMI specification 2.0.4 at https://github.com/modelica/fmi-standard/releases/tag/v2.0.4 . Unless noted otherwise, the tools and libraries listed are compatible with FMI 2.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "FMI Library",
+                  "description": "C library for import of FMUs. [BSD]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 186616821,
+                    "language": "C",
+                    "last_commit": "2026-07-03T10:57:25Z",
+                    "owner": "modelon-community",
+                    "repo": "fmi-library",
+                    "stars": 156
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FMU SDK",
+                  "description": "C library for exporting FMUs. [BSD]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 141128090,
+                    "language": "C",
+                    "last_commit": "2021-10-27T07:52:46Z",
+                    "owner": "qtronic",
+                    "repo": "fmusdk",
+                    "stars": 68
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "C"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "FMI4cpp",
+                  "description": "FMI 2.0 implementation written in modern C++. [MIT]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 146611890,
+                    "language": "C++",
+                    "last_commit": "2025-02-28T09:09:40Z",
+                    "owner": "NTNU-IHB",
+                    "repo": "FMI4cpp",
+                    "stars": 110
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FMU4cpp",
+                  "description": "CMake/Github Actions template project for building FMUs in C++. [MIT]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 491497875,
+                    "language": "C++",
+                    "last_commit": "2025-12-03T10:59:42Z",
+                    "owner": "Ecos-platform",
+                    "repo": "fmu4cpp",
+                    "stars": 23
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FMI++",
+                  "description": "C++ library for import and export of FMUs. [BSD]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 496905203,
+                    "language": "C++",
+                    "last_commit": "2024-01-08T14:52:58Z",
+                    "owner": "fmipp",
+                    "repo": "fmipp",
+                    "stars": 20
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "C++"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "FMPy",
+                  "description": "Python package for loading and interacting with FMUs. It supports also the latest System Structure and Parameterization (SSP standard). [BSD]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 91576871,
+                    "language": "Python",
+                    "last_commit": "2026-08-13T12:44:35Z",
+                    "owner": "CATIA-Systems",
+                    "repo": "FMPy",
+                    "stars": 585
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PyFMI",
+                  "description": "Python package for loading and interacting with FMUs, based on the FMI Library. [LGPL]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 8161941,
+                    "language": "Python",
+                    "last_commit": "2026-08-14T08:52:09Z",
+                    "owner": "modelon-community",
+                    "repo": "PyFMI",
+                    "stars": 226
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PythonFMU",
+                  "description": "Framework for exporting Python code as FMUs. [MIT]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 214012255,
+                    "language": "Python",
+                    "last_commit": "2025-12-12T09:46:42Z",
+                    "owner": "NTNU-IHB",
+                    "repo": "PythonFMU",
+                    "stars": 177
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "modestpy",
+                  "description": "Python package for parameter estimation in FMUs. [BSD]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 94491468,
+                    "language": "Python",
+                    "last_commit": "2022-06-22T19:24:29Z",
+                    "owner": "sdu-cfei",
+                    "repo": "modest-py",
+                    "stars": 52
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SimulatorToFMU",
+                  "description": "Python package that allows to export a memoryless Python-driven simulation program or script as a FMU. [BSD]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 89032195,
+                    "language": "Python",
+                    "last_commit": "2022-12-23T12:28:36Z",
+                    "owner": "LBNL-ETA",
+                    "repo": "SimulatorToFMU",
+                    "stars": 45
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "qFMU",
+                  "description": "Generate standard LTI system FMUs through CLI [BSD]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 418361959,
+                    "language": "C",
+                    "last_commit": "2023-10-26T05:00:14Z",
+                    "owner": "hyumo",
+                    "repo": "qFMU",
+                    "stars": 13
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Python"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "FMIKit-Simulink",
+                  "description": "Import and export Functional Mock-up Units with Simulink. [BSD]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 173619650,
+                    "language": "C",
+                    "last_commit": "2024-12-12T12:59:27Z",
+                    "owner": "CATIA-Systems",
+                    "repo": "FMIKit-Simulink",
+                    "stars": 183
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Simulix",
+                  "description": "A third-party Simulink tool to generate FMUs from Simulink models using the C-API. [GPL3]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 140434478,
+                    "language": "C",
+                    "last_commit": "2023-11-03T18:04:09Z",
+                    "owner": "Kvixen",
+                    "repo": "Simulix",
+                    "stars": 42
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "MATLAB/Simulink"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "FMI.jl",
+                  "description": "Library which integrates FMI and permits load, instantiate, parameterize and simulate FMUs seamlessly inside the Julia programming language. [MIT]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 364329607,
+                    "language": "Julia",
+                    "last_commit": "2026-07-09T10:56:27Z",
+                    "owner": "ThummeTo",
+                    "repo": "FMI.jl",
+                    "stars": 96
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FMIFlux.jl",
+                  "description": "Library which offers the ability to setup NeuralFMUs, put FMUs inside any feed-forward NN topology and get a hybrid model trainable with a standard AD training process. [MIT]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 370655689,
+                    "language": "Julia",
+                    "last_commit": "2026-05-02T02:47:01Z",
+                    "owner": "ThummeTo",
+                    "repo": "FMIFlux.jl",
+                    "stars": 62
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Julia"
+            }
+          ],
+          "description": "Libraries to import, simulate and export FMUs (Functional Mock-up Units) that support FMI 2.",
+          "node_type": "group",
+          "title": "Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "λ-Sim",
+              "description": "Tool that converts FMU simulation models into REST APIs. [MIT]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79421942,
+                "language": "JavaScript",
+                "last_commit": "2017-03-27T04:52:33Z",
+                "owner": "mbonvini",
+                "repo": "LambdaSim",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FMU-proxy",
+              "description": "Framework that allows Functional Mock-up Units (FMUs) to be accessed through language independent RPC calls and that permits to transform a co-simulation FMU into a proxified version of the same FMU, so that each FMU can run in a separate process. [MIT]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 116054287,
+                "language": "Kotlin",
+                "last_commit": "2021-09-03T07:35:22Z",
+                "owner": "NTNU-IHB",
+                "repo": "FMU-proxy",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ROS fmi_adapter",
+              "description": "FMI support for ROS, a flexible framework for writing robot software. [APACHE2]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140839878,
+                "language": "C++",
+                "last_commit": "2026-05-21T17:14:37Z",
+                "owner": "boschresearch",
+                "repo": "fmi_adapter",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fmi_adapter_ros2",
+              "description": "FMI support for ROS2, the new version of the Robot Operating System. [APACHE2]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140839878,
+                "language": "C++",
+                "last_commit": "2026-05-21T17:14:37Z",
+                "owner": "boschresearch",
+                "repo": "fmi_adapter",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unity-FMI-Addon",
+              "description": "FMI support for Unity, a cross-platform game engine. [BSD]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137208528,
+                "language": "C",
+                "last_commit": "2026-02-27T09:22:06Z",
+                "owner": "CATIA-Systems",
+                "repo": "Unity-FMI-Addon",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FMITerminalBlock",
+              "description": "Two way interface between the FMI and IEC 61499-based controllers. [BSD]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93158515,
+                "language": "C++",
+                "last_commit": "2018-04-11T15:34:37Z",
+                "owner": "AIT-IES",
+                "repo": "FMITerminalBlock",
+                "stars": 8
+              }
+            }
+          ],
+          "description": "For the official list of tools that support FMI 2, check http://fmi-standard.org/tools/ .",
+          "node_type": "group",
+          "title": "Tools"
+        }
+      ],
       "title": "FMI 2"
-    },
-    {
-      "description": "Libraries to import, simulate and export FMUs (Functional Mock-up Units) that support FMI 2.",
-      "items": [],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "FMI Library",
-          "description": "C library for import of FMUs. [BSD]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-03T10:57:25Z",
-            "owner": "modelon-community",
-            "repo": "fmi-library",
-            "stars": 156
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FMU SDK",
-          "description": "C library for exporting FMUs. [BSD]",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2021-10-27T07:52:46Z",
-            "owner": "qtronic",
-            "repo": "fmusdk",
-            "stars": 68
-          }
-        }
-      ],
-      "title": "C"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "FMI4cpp",
-          "description": "FMI 2.0 implementation written in modern C++. [MIT]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-02-28T09:09:40Z",
-            "owner": "NTNU-IHB",
-            "repo": "FMI4cpp",
-            "stars": 110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FMU4cpp",
-          "description": "CMake/Github Actions template project for building FMUs in C++. [MIT]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-12-03T10:59:42Z",
-            "owner": "Ecos-platform",
-            "repo": "fmu4cpp",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FMI++",
-          "description": "C++ library for import and export of FMUs. [BSD]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-01-08T14:52:58Z",
-            "owner": "fmipp",
-            "repo": "fmipp",
-            "stars": 20
-          }
-        }
-      ],
-      "title": "C++"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "FMPy",
-          "description": "Python package for loading and interacting with FMUs. It supports also the latest System Structure and Parameterization (SSP standard). [BSD]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T12:44:35Z",
-            "owner": "CATIA-Systems",
-            "repo": "FMPy",
-            "stars": 584
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyFMI",
-          "description": "Python package for loading and interacting with FMUs, based on the FMI Library. [LGPL]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T08:52:09Z",
-            "owner": "modelon-community",
-            "repo": "PyFMI",
-            "stars": 226
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PythonFMU",
-          "description": "Framework for exporting Python code as FMUs. [MIT]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-12T09:46:42Z",
-            "owner": "NTNU-IHB",
-            "repo": "PythonFMU",
-            "stars": 177
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "modestpy",
-          "description": "Python package for parameter estimation in FMUs. [BSD]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-06-22T19:24:29Z",
-            "owner": "sdu-cfei",
-            "repo": "modest-py",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SimulatorToFMU",
-          "description": "Python package that allows to export a memoryless Python-driven simulation program or script as a FMU. [BSD]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-23T12:28:36Z",
-            "owner": "LBNL-ETA",
-            "repo": "SimulatorToFMU",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "qFMU",
-          "description": "Generate standard LTI system FMUs through CLI [BSD]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-10-26T05:00:14Z",
-            "owner": "hyumo",
-            "repo": "qFMU",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "FMIKit-Simulink",
-          "description": "Import and export Functional Mock-up Units with Simulink. [BSD]",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2024-12-12T12:59:27Z",
-            "owner": "CATIA-Systems",
-            "repo": "FMIKit-Simulink",
-            "stars": 183
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Simulix",
-          "description": "A third-party Simulink tool to generate FMUs from Simulink models using the C-API. [GPL3]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-11-03T18:04:09Z",
-            "owner": "Kvixen",
-            "repo": "Simulix",
-            "stars": 42
-          }
-        }
-      ],
-      "title": "MATLAB/Simulink"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "FMI.jl",
-          "description": "Library which integrates FMI and permits load, instantiate, parameterize and simulate FMUs seamlessly inside the Julia programming language. [MIT]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2026-07-09T10:56:27Z",
-            "owner": "ThummeTo",
-            "repo": "FMI.jl",
-            "stars": 96
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FMIFlux.jl",
-          "description": "Library which offers the ability to setup NeuralFMUs, put FMUs inside any feed-forward NN topology and get a hybrid model trainable with a standard AD training process. [MIT]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2026-05-02T02:47:01Z",
-            "owner": "ThummeTo",
-            "repo": "FMIFlux.jl",
-            "stars": 62
-          }
-        }
-      ],
-      "title": "Julia"
-    },
-    {
-      "description": "For the official list of tools that support FMI 2, check http://fmi-standard.org/tools/ .",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "λ-Sim",
-          "description": "Tool that converts FMU simulation models into REST APIs. [MIT]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-03-27T04:52:33Z",
-            "owner": "mbonvini",
-            "repo": "LambdaSim",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FMU-proxy",
-          "description": "Framework that allows Functional Mock-up Units (FMUs) to be accessed through language independent RPC calls and that permits to transform a co-simulation FMU into a proxified version of the same FMU, so that each FMU can run in a separate process. [MIT]",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2021-09-03T07:35:22Z",
-            "owner": "NTNU-IHB",
-            "repo": "FMU-proxy",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ROS fmi_adapter",
-          "description": "FMI support for ROS, a flexible framework for writing robot software. [APACHE2]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-05-21T17:14:37Z",
-            "owner": "boschresearch",
-            "repo": "fmi_adapter",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fmi_adapter_ros2",
-          "description": "FMI support for ROS2, the new version of the Robot Operating System. [APACHE2]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-05-21T17:14:37Z",
-            "owner": "boschresearch",
-            "repo": "fmi_adapter",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Unity-FMI-Addon",
-          "description": "FMI support for Unity, a cross-platform game engine. [BSD]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-02-27T09:22:06Z",
-            "owner": "CATIA-Systems",
-            "repo": "Unity-FMI-Addon",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FMITerminalBlock",
-          "description": "Two way interface between the FMI and IEC 61499-based controllers. [BSD]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-04-11T15:34:37Z",
-            "owner": "AIT-IES",
-            "repo": "FMITerminalBlock",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Tools"
     },
     {
       "description": "The latest (as of June 2024) stable release of the FMI 3 specification is , released on 2023-07-10 . You can find the text of the FMI specification 3.0.1 at https://fmi-standard.org/docs/3.0.1/ . General information on the FMI 3.0 feature list can be found in https://fmi-standard.org/faq/ .\nSome of the projects listed in the previous section also support for FMI 3 :",
@@ -355,6 +385,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 233620811,
                 "language": "C",
                 "last_commit": "2026-08-12T14:21:43Z",
                 "owner": "modelica",
@@ -369,6 +400,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 250546538,
                 "language": "C",
                 "last_commit": "2026-03-13T14:21:20Z",
                 "owner": "PMSFIT",
@@ -390,11 +422,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 91576871,
                 "language": "Python",
                 "last_commit": "2026-08-13T12:44:35Z",
                 "owner": "CATIA-Systems",
                 "repo": "FMPy",
-                "stars": 584
+                "stars": 585
               }
             }
           ]
@@ -411,6 +444,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 364329607,
                 "language": "Julia",
                 "last_commit": "2026-07-09T10:56:27Z",
                 "owner": "ThummeTo",
@@ -432,6 +466,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 173619650,
                 "language": "C",
                 "last_commit": "2024-12-12T12:59:27Z",
                 "owner": "CATIA-Systems",
@@ -453,6 +488,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 191168117,
                 "language": "HTML",
                 "last_commit": "2025-07-28T16:30:16Z",
                 "owner": "INTO-CPS-Association",
@@ -464,21 +500,12 @@
         }
       ],
       "title": "FMI 3"
-    },
-    {
-      "description": "Contributions are welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:26:05.434Z",
+    "last_updated": "2026-08-19T12:30:05.574Z",
     "original_repository": "traversaro/awesome-fmi",
+    "original_repository_id": 117450104,
     "original_repository_sha": "c2f6eb1d2efbe2819fed36272441a0189139d330",
     "enhanced_repository": "enhansome/enhansome-fmi",
     "enhanced_repository_description": null,
