@@ -96,7 +96,7 @@ General information on the FMI 3.0 feature list can be found in <https://fmi-sta
 Some of the projects listed in the previous section also support for FMI 3 :
 
 * **Examples**:
-  * [Reference-FMUs](https://github.com/modelica/Reference-FMUs) ⭐ 223 | 🐛 49 | 🌐 C | 📅 2026-08-12 : `3.0` examples FMUs are available, including examples for new co-simulation features such as scheduled co-simulation and early return in co-simulation.
+  * [Reference-FMUs](https://github.com/modelica/Reference-FMUs) ⭐ 224 | 🐛 49 | 🌐 C | 📅 2026-08-12 : `3.0` examples FMUs are available, including examples for new co-simulation features such as scheduled co-simulation and early return in co-simulation.
   * [PMSFIT/FMI30TestFMUs](https://github.com/PMSFIT/FMI30TestFMUs) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2026-03-13 : Some examples FMUs based on the FMI 3.0 specification are available, including features such as binary variables.
 * **Modelica:**
   * [Dymola](https://www.dymola.com) - support for FMI `3.0` is available, including arrays, terminals, icons, event mode and early return.
@@ -125,4 +125,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
