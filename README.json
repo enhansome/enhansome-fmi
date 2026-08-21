@@ -108,7 +108,7 @@
                     "last_commit": "2026-08-13T12:44:35Z",
                     "owner": "CATIA-Systems",
                     "repo": "FMPy",
-                    "stars": 585
+                    "stars": 584
                   }
                 },
                 {
@@ -427,7 +427,7 @@
                 "last_commit": "2026-08-13T12:44:35Z",
                 "owner": "CATIA-Systems",
                 "repo": "FMPy",
-                "stars": 585
+                "stars": 584
               }
             }
           ]
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:26:02.426Z",
+    "last_updated": "2026-08-21T03:31:54.632Z",
     "original_repository": "traversaro/awesome-fmi",
     "original_repository_id": 117450104,
     "original_repository_sha": "c2f6eb1d2efbe2819fed36272441a0189139d330",
