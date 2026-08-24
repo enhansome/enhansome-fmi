@@ -37,7 +37,7 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units) that su
 
 #### C++
 
-* [FMI4cpp](https://github.com/NTNU-IHB/FMI4cpp) ⭐ 110 | 🐛 10 | 🌐 C++ | 📅 2025-02-28 - FMI 2.0 implementation written in modern C++. \[MIT]
+* [FMI4cpp](https://github.com/NTNU-IHB/FMI4cpp) ⚠️ Archived - FMI 2.0 implementation written in modern C++. \[MIT]
 * [FMU4cpp](https://github.com/Ecos-platform/fmu4cpp) ⭐ 23 | 🐛 2 | 🌐 C++ | 📅 2025-12-03 - CMake/Github Actions template project for building FMUs in C++. \[MIT]
 * [FMI++](https://github.com/fmipp/fmipp) ⭐ 20 | 🐛 3 | 🌐 C++ | 📅 2024-01-08 - C++ library for import and export of FMUs. \[BSD]
 

@@ -50,10 +50,10 @@
                   "description": "FMI 2.0 implementation written in modern C++. [MIT]",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "id": 146611890,
                     "language": "C++",
-                    "last_commit": "2025-02-28T09:09:40Z",
+                    "last_commit": "2026-08-24T06:44:50Z",
                     "owner": "NTNU-IHB",
                     "repo": "FMI4cpp",
                     "stars": 110
@@ -190,6 +190,28 @@
               "description": null,
               "node_type": "group",
               "title": "Python"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "FMI4j",
+                  "description": "Java/Kotlin library for dealing with FMUs on the JVM platform. [MIT]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 111925016,
+                    "language": "Java",
+                    "last_commit": "2023-01-04T15:56:55Z",
+                    "owner": "NTNU-IHB",
+                    "repo": "FMI4j",
+                    "stars": 39
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Java"
             },
             {
               "children": [
@@ -503,7 +525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:33:19.636Z",
+    "last_updated": "2026-08-24T14:33:16.760Z",
     "original_repository": "traversaro/awesome-fmi",
     "original_repository_id": 117450104,
     "original_repository_sha": "c2f6eb1d2efbe2819fed36272441a0189139d330",
