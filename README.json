@@ -412,7 +412,7 @@
                 "last_commit": "2026-08-12T14:21:43Z",
                 "owner": "modelica",
                 "repo": "Reference-FMUs",
-                "stars": 224
+                "stars": 225
               }
             },
             {
@@ -525,7 +525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:33:16.760Z",
+    "last_updated": "2026-08-25T03:27:43.546Z",
     "original_repository": "traversaro/awesome-fmi",
     "original_repository_id": 117450104,
     "original_repository_sha": "c2f6eb1d2efbe2819fed36272441a0189139d330",
