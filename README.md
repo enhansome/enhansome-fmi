@@ -23,7 +23,7 @@ See the [official FMI website](http://fmi-standard.org/) for the official specif
 ## FMI 2
 
 The latest (as of June 2024) stable release of the FMI 2 specification is `2.0.4`, released on 2022-12-1.
-You can find the text of the FMI specification 2.0.4 at <https://github.com/modelica/fmi-standard/releases/tag/v2.0.4> ⭐ 353 | 🐛 42 | 🌐 C | 📅 2026-08-25 .
+You can find the text of the FMI specification 2.0.4 at <https://github.com/modelica/fmi-standard/releases/tag/v2.0.4> ⭐ 354 | 🐛 41 | 🌐 C | 📅 2026-08-25 .
 Unless noted otherwise, the tools and libraries listed are compatible with FMI 2.
 
 ### Libraries
@@ -96,7 +96,7 @@ General information on the FMI 3.0 feature list can be found in <https://fmi-sta
 Some of the projects listed in the previous section also support for FMI 3 :
 
 * **Examples**:
-  * [Reference-FMUs](https://github.com/modelica/Reference-FMUs) ⭐ 225 | 🐛 49 | 🌐 C | 📅 2026-08-12 : `3.0` examples FMUs are available, including examples for new co-simulation features such as scheduled co-simulation and early return in co-simulation.
+  * [Reference-FMUs](https://github.com/modelica/Reference-FMUs) ⭐ 225 | 🐛 50 | 🌐 C | 📅 2026-08-12 : `3.0` examples FMUs are available, including examples for new co-simulation features such as scheduled co-simulation and early return in co-simulation.
   * [PMSFIT/FMI30TestFMUs](https://github.com/PMSFIT/FMI30TestFMUs) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2026-03-13 : Some examples FMUs based on the FMI 3.0 specification are available, including features such as binary variables.
 * **Modelica:**
   * [Dymola](https://www.dymola.com) - support for FMI `3.0` is available, including arrays, terminals, icons, event mode and early return.
@@ -125,4 +125,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

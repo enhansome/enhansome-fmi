@@ -525,9 +525,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:34:13.830Z",
-    "original_repository": "traversaro/awesome-fmi",
-    "original_repository_id": 117450104,
+    "last_updated": "2026-08-27T11:41:25.185Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 117450104,
+      "language": null,
+      "last_commit": "2024-11-08T19:17:24Z",
+      "owner": "traversaro",
+      "repo": "awesome-fmi",
+      "stars": 183
+    },
     "original_repository_sha": "c2f6eb1d2efbe2819fed36272441a0189139d330",
     "enhanced_repository": "enhansome/enhansome-fmi",
     "enhanced_repository_description": null,
