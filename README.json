@@ -20,7 +20,8 @@
                     "owner": "modelon-community",
                     "repo": "fmi-library",
                     "stars": 156
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:33:46.830Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "qtronic",
                     "repo": "fmusdk",
                     "stars": 68
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:33:46.830Z"
                 }
               ],
               "description": null,
@@ -57,7 +59,8 @@
                     "owner": "NTNU-IHB",
                     "repo": "FMI4cpp",
                     "stars": 110
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:33:46.830Z"
                 },
                 {
                   "node_type": "item",
@@ -72,7 +75,8 @@
                     "owner": "Ecos-platform",
                     "repo": "fmu4cpp",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:33:46.830Z"
                 },
                 {
                   "node_type": "item",
@@ -87,7 +91,8 @@
                     "owner": "fmipp",
                     "repo": "fmipp",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:33:46.830Z"
                 }
               ],
               "description": null,
@@ -109,7 +114,8 @@
                     "owner": "CATIA-Systems",
                     "repo": "FMPy",
                     "stars": 584
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:33:46.830Z"
                 },
                 {
                   "node_type": "item",
@@ -124,7 +130,8 @@
                     "owner": "modelon-community",
                     "repo": "PyFMI",
                     "stars": 226
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:33:46.830Z"
                 },
                 {
                   "node_type": "item",
@@ -139,7 +146,8 @@
                     "owner": "NTNU-IHB",
                     "repo": "PythonFMU",
                     "stars": 177
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:33:46.830Z"
                 },
                 {
                   "node_type": "item",
@@ -154,7 +162,8 @@
                     "owner": "sdu-cfei",
                     "repo": "modest-py",
                     "stars": 52
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:33:46.830Z"
                 },
                 {
                   "node_type": "item",
@@ -169,7 +178,8 @@
                     "owner": "LBNL-ETA",
                     "repo": "SimulatorToFMU",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:33:46.830Z"
                 },
                 {
                   "node_type": "item",
@@ -184,7 +194,8 @@
                     "owner": "hyumo",
                     "repo": "qFMU",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:33:46.830Z"
                 }
               ],
               "description": null,
@@ -206,7 +217,8 @@
                     "owner": "NTNU-IHB",
                     "repo": "FMI4j",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:33:46.830Z"
                 }
               ],
               "description": null,
@@ -228,7 +240,8 @@
                     "owner": "CATIA-Systems",
                     "repo": "FMIKit-Simulink",
                     "stars": 183
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:33:46.830Z"
                 },
                 {
                   "node_type": "item",
@@ -243,7 +256,8 @@
                     "owner": "Kvixen",
                     "repo": "Simulix",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:33:46.830Z"
                 }
               ],
               "description": null,
@@ -265,7 +279,8 @@
                     "owner": "ThummeTo",
                     "repo": "FMI.jl",
                     "stars": 96
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:33:46.830Z"
                 },
                 {
                   "node_type": "item",
@@ -280,7 +295,8 @@
                     "owner": "ThummeTo",
                     "repo": "FMIFlux.jl",
                     "stars": 62
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:33:46.830Z"
                 }
               ],
               "description": null,
@@ -307,7 +323,8 @@
                 "owner": "mbonvini",
                 "repo": "LambdaSim",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T14:33:46.830Z"
             },
             {
               "node_type": "item",
@@ -322,7 +339,8 @@
                 "owner": "NTNU-IHB",
                 "repo": "FMU-proxy",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T14:33:46.830Z"
             },
             {
               "node_type": "item",
@@ -337,7 +355,8 @@
                 "owner": "boschresearch",
                 "repo": "fmi_adapter",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T14:33:46.830Z"
             },
             {
               "node_type": "item",
@@ -352,7 +371,8 @@
                 "owner": "boschresearch",
                 "repo": "fmi_adapter",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T14:33:46.830Z"
             },
             {
               "node_type": "item",
@@ -367,7 +387,8 @@
                 "owner": "CATIA-Systems",
                 "repo": "Unity-FMI-Addon",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T14:33:46.830Z"
             },
             {
               "node_type": "item",
@@ -382,7 +403,8 @@
                 "owner": "AIT-IES",
                 "repo": "FMITerminalBlock",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T14:33:46.830Z"
             }
           ],
           "description": "For the official list of tools that support FMI 2, check http://fmi-standard.org/tools/ .",
@@ -413,7 +435,8 @@
                 "owner": "modelica",
                 "repo": "Reference-FMUs",
                 "stars": 225
-              }
+              },
+              "first_seen": "2026-08-28T14:33:46.830Z"
             },
             {
               "node_type": "item",
@@ -428,7 +451,8 @@
                 "owner": "PMSFIT",
                 "repo": "FMI30TestFMUs",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T14:33:46.830Z"
             }
           ]
         },
@@ -450,7 +474,8 @@
                 "owner": "CATIA-Systems",
                 "repo": "FMPy",
                 "stars": 584
-              }
+              },
+              "first_seen": "2026-08-28T14:33:46.830Z"
             }
           ]
         },
@@ -472,7 +497,8 @@
                 "owner": "ThummeTo",
                 "repo": "FMI.jl",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T14:33:46.830Z"
             }
           ]
         },
@@ -494,7 +520,8 @@
                 "owner": "CATIA-Systems",
                 "repo": "FMIKit-Simulink",
                 "stars": 183
-              }
+              },
+              "first_seen": "2026-08-28T14:33:46.830Z"
             }
           ]
         },
@@ -516,7 +543,8 @@
                 "owner": "INTO-CPS-Association",
                 "repo": "FMI-VDM-Model",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T14:33:46.830Z"
             }
           ]
         }
@@ -525,7 +553,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:03:07.498Z",
+    "last_updated": "2026-08-28T14:33:46.830Z",
     "original_repository_info": {
       "archived": false,
       "id": 117450104,
