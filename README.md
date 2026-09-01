@@ -23,7 +23,7 @@ See the [official FMI website](http://fmi-standard.org/) for the official specif
 ## FMI 2
 
 The latest (as of June 2024) stable release of the FMI 2 specification is `2.0.4`, released on 2022-12-1.
-You can find the text of the FMI specification 2.0.4 at <https://github.com/modelica/fmi-standard/releases/tag/v2.0.4> ⭐ 355 | 🐛 41 | 🌐 C | 📅 2026-08-25 .
+You can find the text of the FMI specification 2.0.4 at <https://github.com/modelica/fmi-standard/releases/tag/v2.0.4> ⭐ 355 | 🐛 42 | 🌐 C | 📅 2026-08-25 .
 Unless noted otherwise, the tools and libraries listed are compatible with FMI 2.
 
 ### Libraries
@@ -43,9 +43,9 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units) that su
 
 #### Python
 
-* [FMPy](https://github.com/CATIA-Systems/FMPy) ⭐ 584 | 🐛 141 | 🌐 Python | 📅 2026-08-13 - Python package for loading and interacting with FMUs. It supports also the latest [System Structure and Parameterization (SSP standard)](https://www.modelica.org/projects). \[BSD]
-* [PyFMI](https://github.com/modelon-community/pyfmi) ⭐ 226 | 🐛 17 | 🌐 Python | 📅 2026-08-14 - Python package for loading and interacting with FMUs, based on the FMI Library. \[LGPL]
-* [PythonFMU](https://github.com/NTNU-IHB/PythonFMU) ⭐ 177 | 🐛 25 | 🌐 Python | 📅 2025-12-12 - Framework for exporting Python code as FMUs. \[MIT]
+* [FMPy](https://github.com/CATIA-Systems/FMPy) ⭐ 583 | 🐛 141 | 🌐 Python | 📅 2026-08-13 - Python package for loading and interacting with FMUs. It supports also the latest [System Structure and Parameterization (SSP standard)](https://www.modelica.org/projects). \[BSD]
+* [PyFMI](https://github.com/modelon-community/pyfmi) ⭐ 226 | 🐛 18 | 🌐 Python | 📅 2026-08-31 - Python package for loading and interacting with FMUs, based on the FMI Library. \[LGPL]
+* [PythonFMU](https://github.com/NTNU-IHB/PythonFMU) ⭐ 176 | 🐛 25 | 🌐 Python | 📅 2025-12-12 - Framework for exporting Python code as FMUs. \[MIT]
 * [modestpy](https://github.com/sdu-cfei/modest-py) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2022-06-22 - Python package for parameter estimation in FMUs. \[BSD]
 * [SimulatorToFMU](https://github.com/LBNL-ETA/SimulatorToFMU) ⭐ 45 | 🐛 14 | 🌐 Python | 📅 2022-12-23 - Python package that allows to export a memoryless Python-driven simulation program or script as a FMU. \[BSD]
 * [qFMU](https://github.com/hyumo/qFMU) ⭐ 13 | 🐛 4 | 🌐 C | 📅 2023-10-26 - Generate standard LTI system FMUs through CLI \[BSD]
@@ -101,7 +101,7 @@ Some of the projects listed in the previous section also support for FMI 3 :
 * **Modelica:**
   * [Dymola](https://www.dymola.com) - support for FMI `3.0` is available, including arrays, terminals, icons, event mode and early return.
 * **Python:**
-  * [fmpy](https://github.com/CATIA-Systems/FMPy) ⭐ 584 | 🐛 141 | 🌐 Python | 📅 2026-08-13 - support for FMI `3.0` is available.
+  * [fmpy](https://github.com/CATIA-Systems/FMPy) ⭐ 583 | 🐛 141 | 🌐 Python | 📅 2026-08-13 - support for FMI `3.0` is available.
 * **Julia:**
   * [FMI.jl](https://github.com/ThummeTo/FMI.jl) ⭐ 96 | 🐛 28 | 🌐 Julia | 📅 2026-07-09  - experimental support for FMI `3.0` is work in progress
 * **Simulink:**
@@ -125,4 +125,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

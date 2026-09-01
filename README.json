@@ -156,7 +156,7 @@
                     "open_issues": 141,
                     "owner": "CATIA-Systems",
                     "repo": "FMPy",
-                    "stars": 584,
+                    "stars": 583,
                     "topics": [
                       "fmi",
                       "fmi-standard",
@@ -177,8 +177,8 @@
                     "id": 8161941,
                     "language": "Python",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-08-14T08:52:09Z",
-                    "open_issues": 17,
+                    "last_commit": "2026-08-31T16:23:29Z",
+                    "open_issues": 18,
                     "owner": "modelon-community",
                     "repo": "PyFMI",
                     "stars": 226,
@@ -202,7 +202,7 @@
                     "open_issues": 25,
                     "owner": "NTNU-IHB",
                     "repo": "PythonFMU",
-                    "stars": 177,
+                    "stars": 176,
                     "topics": [
                       "co-simulation",
                       "csv",
@@ -698,7 +698,7 @@
                 "open_issues": 141,
                 "owner": "CATIA-Systems",
                 "repo": "FMPy",
-                "stars": 584,
+                "stars": 583,
                 "topics": [
                   "fmi",
                   "fmi-standard",
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T08:52:22.027Z",
+    "last_updated": "2026-09-01T07:57:54.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.",
