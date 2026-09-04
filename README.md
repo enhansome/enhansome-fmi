@@ -45,7 +45,7 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units) that su
 
 * [FMPy](https://github.com/CATIA-Systems/FMPy) ⭐ 584 | 🐛 142 | 🌐 Python | 📅 2026-09-01 - Python package for loading and interacting with FMUs. It supports also the latest [System Structure and Parameterization (SSP standard)](https://www.modelica.org/projects). \[BSD]
 * [PyFMI](https://github.com/modelon-community/pyfmi) ⭐ 226 | 🐛 17 | 🌐 Python | 📅 2026-09-01 - Python package for loading and interacting with FMUs, based on the FMI Library. \[LGPL]
-* [PythonFMU](https://github.com/NTNU-IHB/PythonFMU) ⭐ 176 | 🐛 25 | 🌐 Python | 📅 2025-12-12 - Framework for exporting Python code as FMUs. \[MIT]
+* [PythonFMU](https://github.com/NTNU-IHB/PythonFMU) ⭐ 176 | 🐛 26 | 🌐 Python | 📅 2025-12-12 - Framework for exporting Python code as FMUs. \[MIT]
 * [modestpy](https://github.com/sdu-cfei/modest-py) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2022-06-22 - Python package for parameter estimation in FMUs. \[BSD]
 * [SimulatorToFMU](https://github.com/LBNL-ETA/SimulatorToFMU) ⭐ 45 | 🐛 14 | 🌐 Python | 📅 2022-12-23 - Python package that allows to export a memoryless Python-driven simulation program or script as a FMU. \[BSD]
 * [qFMU](https://github.com/hyumo/qFMU) ⭐ 13 | 🐛 4 | 🌐 C | 📅 2023-10-26 - Generate standard LTI system FMUs through CLI \[BSD]
@@ -82,7 +82,7 @@ For the official list of tools that support FMI 2, check <http://fmi-standard.or
 * [ROS fmi\_adapter](https://github.com/boschresearch/fmi_adapter) ⭐ 50 | 🐛 10 | 🌐 C++ | 📅 2026-05-21 - FMI support for [ROS](http://www.ros.org/), a flexible framework for writing robot software. \[APACHE2]
 * [fmi\_adapter\_ros2](https://github.com/boschresearch/fmi_adapter_ros2) ⭐ 50 | 🐛 10 | 🌐 C++ | 📅 2026-05-21 - FMI support for [ROS2](https://index.ros.org/doc/ros2/), the new version of the Robot Operating System. \[APACHE2]
 * [Unity-FMI-Addon](https://github.com/CATIA-Systems/Unity-FMI-Addon) ⭐ 48 | 🐛 10 | 🌐 C | 📅 2026-02-27 - FMI support for [Unity](https://unity3d.com/), a cross-platform game engine. \[BSD]
-* [FMITerminalBlock](https://github.com/AIT-IES/FMITerminalBlock) ⭐ 8 | 🐛 4 | 🌐 C++ | 📅 2018-04-11 -  Two way interface between the FMI and IEC 61499-based controllers. \[BSD]
+* [FMITerminalBlock](https://github.com/AIT-IES/FMITerminalBlock) ⭐ 9 | 🐛 4 | 🌐 C++ | 📅 2018-04-11 -  Two way interface between the FMI and IEC 61499-based controllers. \[BSD]
 * [Dymola](https://www.dymola.com) - A modeling and simulation environment for Modelica, with full support for FMI. \[Commercial]
 * [FMIGo!](http://www.fmigo.net/) - A set of tools for dealing with the FMI and SSP standards. \[MIT]
 * [fmu-viewer](https://hyumo.github.io/fmuviewer-web/) - A simple FMU viewer in the browser
@@ -125,4 +125,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
