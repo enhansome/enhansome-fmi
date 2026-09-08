@@ -177,8 +177,8 @@
                     "id": 8161941,
                     "language": "Python",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-09-01T12:11:13Z",
-                    "open_issues": 17,
+                    "last_commit": "2026-09-07T15:23:01Z",
+                    "open_issues": 18,
                     "owner": "modelon-community",
                     "repo": "PyFMI",
                     "stars": 226,
@@ -641,7 +641,7 @@
                 "id": 233620811,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T13:11:58Z",
+                "last_commit": "2026-09-07T11:44:59Z",
                 "open_issues": 44,
                 "owner": "modelica",
                 "repo": "Reference-FMUs",
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T07:31:12.371Z",
+    "last_updated": "2026-09-08T07:24:17.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.",
