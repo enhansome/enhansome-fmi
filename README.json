@@ -641,8 +641,8 @@
                 "id": 233620811,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T11:44:59Z",
-                "open_issues": 45,
+                "last_commit": "2026-09-12T09:28:14Z",
+                "open_issues": 43,
                 "owner": "modelica",
                 "repo": "Reference-FMUs",
                 "stars": 226,
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T07:19:24.423Z",
+    "last_updated": "2026-09-13T07:37:54.584Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.",
