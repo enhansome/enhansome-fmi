@@ -530,7 +530,7 @@
                 "open_issues": 10,
                 "owner": "boschresearch",
                 "repo": "fmi_adapter",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "fmi",
                   "keep",
@@ -556,7 +556,7 @@
                 "open_issues": 10,
                 "owner": "boschresearch",
                 "repo": "fmi_adapter",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "fmi",
                   "keep",
@@ -642,7 +642,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-12T09:28:14Z",
-                "open_issues": 44,
+                "open_issues": 48,
                 "owner": "modelica",
                 "repo": "Reference-FMUs",
                 "stars": 226,
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:54:15.905Z",
+    "last_updated": "2026-09-21T08:10:18.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.",
