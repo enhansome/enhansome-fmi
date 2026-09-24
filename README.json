@@ -20,7 +20,7 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-07-03T10:57:25Z",
-                    "open_issues": 29,
+                    "open_issues": 32,
                     "owner": "modelon-community",
                     "repo": "fmi-library",
                     "stars": 158,
@@ -178,7 +178,7 @@
                     "language": "Python",
                     "license": "LGPL-3.0",
                     "last_commit": "2026-09-16T12:44:10Z",
-                    "open_issues": 17,
+                    "open_issues": 22,
                     "owner": "modelon-community",
                     "repo": "PyFMI",
                     "stars": 226,
@@ -202,7 +202,7 @@
                     "open_issues": 26,
                     "owner": "NTNU-IHB",
                     "repo": "PythonFMU",
-                    "stars": 176,
+                    "stars": 175,
                     "topics": [
                       "co-simulation",
                       "csv",
@@ -402,7 +402,7 @@
                     "language": "Julia",
                     "license": "MIT",
                     "last_commit": "2026-07-09T10:56:27Z",
-                    "open_issues": 28,
+                    "open_issues": 29,
                     "owner": "ThummeTo",
                     "repo": "FMI.jl",
                     "stars": 96,
@@ -645,7 +645,7 @@
                 "open_issues": 50,
                 "owner": "modelica",
                 "repo": "Reference-FMUs",
-                "stars": 226,
+                "stars": 227,
                 "topics": [
                   "fmi",
                   "fmi-standard",
@@ -727,7 +727,7 @@
                 "language": "Julia",
                 "license": "MIT",
                 "last_commit": "2026-07-09T10:56:27Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "ThummeTo",
                 "repo": "FMI.jl",
                 "stars": 96,
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T07:55:36.933Z",
+    "last_updated": "2026-09-24T07:46:51.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.",
