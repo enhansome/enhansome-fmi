@@ -43,7 +43,7 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units) that su
 
 #### Python
 
-* [FMPy](https://github.com/CATIA-Systems/FMPy) ⭐ 584 | 🐛 135 | 🌐 Python | 📅 2026-09-09 - Python package for loading and interacting with FMUs. It supports also the latest [System Structure and Parameterization (SSP standard)](https://www.modelica.org/projects). \[BSD]
+* [FMPy](https://github.com/CATIA-Systems/FMPy) ⭐ 584 | 🐛 138 | 🌐 Python | 📅 2026-09-09 - Python package for loading and interacting with FMUs. It supports also the latest [System Structure and Parameterization (SSP standard)](https://www.modelica.org/projects). \[BSD]
 * [PyFMI](https://github.com/modelon-community/pyfmi) ⭐ 226 | 🐛 22 | 🌐 Python | 📅 2026-09-16 - Python package for loading and interacting with FMUs, based on the FMI Library. \[LGPL]
 * [PythonFMU](https://github.com/NTNU-IHB/PythonFMU) ⭐ 175 | 🐛 26 | 🌐 Python | 📅 2025-12-12 - Framework for exporting Python code as FMUs. \[MIT]
 * [modestpy](https://github.com/sdu-cfei/modest-py) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2022-06-22 - Python package for parameter estimation in FMUs. \[BSD]
@@ -101,7 +101,7 @@ Some of the projects listed in the previous section also support for FMI 3 :
 * **Modelica:**
   * [Dymola](https://www.dymola.com) - support for FMI `3.0` is available, including arrays, terminals, icons, event mode and early return.
 * **Python:**
-  * [fmpy](https://github.com/CATIA-Systems/FMPy) ⭐ 584 | 🐛 135 | 🌐 Python | 📅 2026-09-09 - support for FMI `3.0` is available.
+  * [fmpy](https://github.com/CATIA-Systems/FMPy) ⭐ 584 | 🐛 138 | 🌐 Python | 📅 2026-09-09 - support for FMI `3.0` is available.
 * **Julia:**
   * [FMI.jl](https://github.com/ThummeTo/FMI.jl) ⭐ 96 | 🐛 29 | 🌐 Julia | 📅 2026-07-09  - experimental support for FMI `3.0` is work in progress
 * **Simulink:**
@@ -125,4 +125,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
