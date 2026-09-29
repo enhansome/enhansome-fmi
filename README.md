@@ -23,7 +23,7 @@ See the [official FMI website](http://fmi-standard.org/) for the official specif
 ## FMI 2
 
 The latest (as of June 2024) stable release of the FMI 2 specification is `2.0.4`, released on 2022-12-1.
-You can find the text of the FMI specification 2.0.4 at <https://github.com/modelica/fmi-standard/releases/tag/v2.0.4> ⭐ 359 | 🐛 46 | 🌐 C | 📅 2026-09-08 .
+You can find the text of the FMI specification 2.0.4 at <https://github.com/modelica/fmi-standard/releases/tag/v2.0.4> ⭐ 360 | 🐛 46 | 🌐 C | 📅 2026-09-08 .
 Unless noted otherwise, the tools and libraries listed are compatible with FMI 2.
 
 ### Libraries
@@ -32,7 +32,7 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units) that su
 
 #### C
 
-* [FMI Library](https://github.com/modelon-community/fmi-library) ⭐ 158 | 🐛 32 | 🌐 C | 📅 2026-07-03 - C library for import of FMUs. \[BSD]
+* [FMI Library](https://github.com/modelon-community/fmi-library) ⭐ 157 | 🐛 32 | 🌐 C | 📅 2026-07-03 - C library for import of FMUs. \[BSD]
 * [FMU SDK](https://github.com/qtronic/fmusdk) ⚠️ Archived - C library for exporting FMUs. \[BSD]
 
 #### C++
@@ -125,4 +125,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
