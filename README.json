@@ -156,7 +156,7 @@
                     "open_issues": 139,
                     "owner": "CATIA-Systems",
                     "repo": "FMPy",
-                    "stars": 584,
+                    "stars": 591,
                     "topics": [
                       "fmi",
                       "fmi-standard",
@@ -181,7 +181,7 @@
                     "open_issues": 22,
                     "owner": "modelon-community",
                     "repo": "PyFMI",
-                    "stars": 226,
+                    "stars": 227,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:46.830Z"
@@ -645,7 +645,7 @@
                 "open_issues": 50,
                 "owner": "modelica",
                 "repo": "Reference-FMUs",
-                "stars": 227,
+                "stars": 235,
                 "topics": [
                   "fmi",
                   "fmi-standard",
@@ -698,7 +698,7 @@
                 "open_issues": 139,
                 "owner": "CATIA-Systems",
                 "repo": "FMPy",
-                "stars": 584,
+                "stars": 591,
                 "topics": [
                   "fmi",
                   "fmi-standard",
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T08:58:05.773Z",
+    "last_updated": "2026-09-30T08:57:02.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.",
@@ -822,7 +822,7 @@
       "open_issues": 1,
       "owner": "traversaro",
       "repo": "awesome-fmi",
-      "stars": 183,
+      "stars": 184,
       "topics": [
         "awesome",
         "awesome-list",
