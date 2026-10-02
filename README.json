@@ -181,7 +181,7 @@
                     "open_issues": 22,
                     "owner": "modelon-community",
                     "repo": "PyFMI",
-                    "stars": 227,
+                    "stars": 226,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:46.830Z"
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T09:22:10.636Z",
+    "last_updated": "2026-10-02T08:54:49.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.",
