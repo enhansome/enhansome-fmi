@@ -401,8 +401,8 @@
                     "id": 364329607,
                     "language": "Julia",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T08:48:39Z",
-                    "open_issues": 29,
+                    "last_commit": "2026-10-09T11:03:42Z",
+                    "open_issues": 27,
                     "owner": "ThummeTo",
                     "repo": "FMI.jl",
                     "stars": 96,
@@ -726,8 +726,8 @@
                 "id": 364329607,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-10-09T08:48:39Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-09T11:03:42Z",
+                "open_issues": 27,
                 "owner": "ThummeTo",
                 "repo": "FMI.jl",
                 "stars": 96,
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T09:32:51.302Z",
+    "last_updated": "2026-10-10T08:53:58.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.",
