@@ -32,7 +32,7 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units) that su
 
 #### C
 
-* [FMI Library](https://github.com/modelon-community/fmi-library) ⭐ 157 | 🐛 32 | 🌐 C | 📅 2026-07-03 - C library for import of FMUs. \[BSD]
+* [FMI Library](https://github.com/modelon-community/fmi-library) ⭐ 158 | 🐛 32 | 🌐 C | 📅 2026-07-03 - C library for import of FMUs. \[BSD]
 * [FMU SDK](https://github.com/qtronic/fmusdk) ⚠️ Archived - C library for exporting FMUs. \[BSD]
 
 #### C++
@@ -125,4 +125,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
