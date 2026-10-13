@@ -43,8 +43,8 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units) that su
 
 #### Python
 
-* [FMPy](https://github.com/CATIA-Systems/FMPy) ⭐ 595 | 🐛 141 | 🌐 Python | 📅 2026-10-06 - Python package for loading and interacting with FMUs. It supports also the latest [System Structure and Parameterization (SSP standard)](https://www.modelica.org/projects). \[BSD]
-* [PyFMI](https://github.com/modelon-community/pyfmi) ⭐ 226 | 🐛 22 | 🌐 Python | 📅 2026-09-16 - Python package for loading and interacting with FMUs, based on the FMI Library. \[LGPL]
+* [FMPy](https://github.com/CATIA-Systems/FMPy) ⭐ 596 | 🐛 143 | 🌐 Python | 📅 2026-10-06 - Python package for loading and interacting with FMUs. It supports also the latest [System Structure and Parameterization (SSP standard)](https://www.modelica.org/projects). \[BSD]
+* [PyFMI](https://github.com/modelon-community/pyfmi) ⭐ 227 | 🐛 22 | 🌐 Python | 📅 2026-09-16 - Python package for loading and interacting with FMUs, based on the FMI Library. \[LGPL]
 * [PythonFMU](https://github.com/NTNU-IHB/PythonFMU) ⭐ 175 | 🐛 26 | 🌐 Python | 📅 2025-12-12 - Framework for exporting Python code as FMUs. \[MIT]
 * [modestpy](https://github.com/sdu-cfei/modest-py) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2022-06-22 - Python package for parameter estimation in FMUs. \[BSD]
 * [SimulatorToFMU](https://github.com/LBNL-ETA/SimulatorToFMU) ⭐ 45 | 🐛 14 | 🌐 Python | 📅 2022-12-23 - Python package that allows to export a memoryless Python-driven simulation program or script as a FMU. \[BSD]
@@ -70,7 +70,7 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units) that su
 
 #### Julia
 
-* [FMI.jl](https://github.com/ThummeTo/FMI.jl) ⭐ 96 | 🐛 27 | 🌐 Julia | 📅 2026-10-09 - Library which integrates FMI and permits load, instantiate, parameterize and simulate FMUs seamlessly inside the Julia programming language. \[MIT]
+* [FMI.jl](https://github.com/ThummeTo/FMI.jl) ⭐ 96 | 🐛 25 | 🌐 Julia | 📅 2026-10-12 - Library which integrates FMI and permits load, instantiate, parameterize and simulate FMUs seamlessly inside the Julia programming language. \[MIT]
 * [FMIFlux.jl](https://github.com/ThummeTo/FMIFlux.jl) ⭐ 62 | 🐛 16 | 🌐 Julia | 📅 2026-05-02 - Library which offers the ability to setup NeuralFMUs, put FMUs inside any feed-forward NN topology and get a hybrid model trainable with a standard AD training process. \[MIT]
 
 ### Tools
@@ -101,9 +101,9 @@ Some of the projects listed in the previous section also support for FMI 3 :
 * **Modelica:**
   * [Dymola](https://www.dymola.com) - support for FMI `3.0` is available, including arrays, terminals, icons, event mode and early return.
 * **Python:**
-  * [fmpy](https://github.com/CATIA-Systems/FMPy) ⭐ 595 | 🐛 141 | 🌐 Python | 📅 2026-10-06 - support for FMI `3.0` is available.
+  * [fmpy](https://github.com/CATIA-Systems/FMPy) ⭐ 596 | 🐛 143 | 🌐 Python | 📅 2026-10-06 - support for FMI `3.0` is available.
 * **Julia:**
-  * [FMI.jl](https://github.com/ThummeTo/FMI.jl) ⭐ 96 | 🐛 27 | 🌐 Julia | 📅 2026-10-09  - experimental support for FMI `3.0` is work in progress
+  * [FMI.jl](https://github.com/ThummeTo/FMI.jl) ⭐ 96 | 🐛 25 | 🌐 Julia | 📅 2026-10-12  - experimental support for FMI `3.0` is work in progress
 * **Simulink:**
   * [FMIKit-Simulink](https://github.com/CATIA-Systems/FMIKit-Simulink) ⚠️ Archived - support for export of FMU `3.0` is available.
 * **Formal models**
@@ -125,4 +125,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._

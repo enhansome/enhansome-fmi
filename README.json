@@ -153,10 +153,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-06T05:06:14Z",
-                    "open_issues": 141,
+                    "open_issues": 143,
                     "owner": "CATIA-Systems",
                     "repo": "FMPy",
-                    "stars": 595,
+                    "stars": 596,
                     "topics": [
                       "fmi",
                       "fmi-standard",
@@ -181,7 +181,7 @@
                     "open_issues": 22,
                     "owner": "modelon-community",
                     "repo": "PyFMI",
-                    "stars": 226,
+                    "stars": 227,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:46.830Z"
@@ -401,8 +401,8 @@
                     "id": 364329607,
                     "language": "Julia",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T11:03:42Z",
-                    "open_issues": 27,
+                    "last_commit": "2026-10-12T14:00:56Z",
+                    "open_issues": 25,
                     "owner": "ThummeTo",
                     "repo": "FMI.jl",
                     "stars": 96,
@@ -695,10 +695,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-06T05:06:14Z",
-                "open_issues": 141,
+                "open_issues": 143,
                 "owner": "CATIA-Systems",
                 "repo": "FMPy",
-                "stars": 595,
+                "stars": 596,
                 "topics": [
                   "fmi",
                   "fmi-standard",
@@ -726,8 +726,8 @@
                 "id": 364329607,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-10-09T11:03:42Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-12T14:00:56Z",
+                "open_issues": 25,
                 "owner": "ThummeTo",
                 "repo": "FMI.jl",
                 "stars": 96,
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T09:41:00.983Z",
+    "last_updated": "2026-10-13T09:42:10.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.",
