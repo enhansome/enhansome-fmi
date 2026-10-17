@@ -153,7 +153,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-13T18:26:18Z",
-                    "open_issues": 144,
+                    "open_issues": 153,
                     "owner": "CATIA-Systems",
                     "repo": "FMPy",
                     "stars": 597,
@@ -695,7 +695,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-13T18:26:18Z",
-                "open_issues": 144,
+                "open_issues": 153,
                 "owner": "CATIA-Systems",
                 "repo": "FMPy",
                 "stars": 597,
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T07:28:49.948Z",
+    "last_updated": "2026-10-17T07:09:31.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.",
