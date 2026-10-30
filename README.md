@@ -23,7 +23,7 @@ See the [official FMI website](http://fmi-standard.org/) for the official specif
 ## FMI 2
 
 The latest (as of June 2024) stable release of the FMI 2 specification is `2.0.4`, released on 2022-12-1.
-You can find the text of the FMI specification 2.0.4 at <https://github.com/modelica/fmi-standard/releases/tag/v2.0.4> ⭐ 382 | 🐛 45 | 🌐 C | 📅 2026-10-20 .
+You can find the text of the FMI specification 2.0.4 at <https://github.com/modelica/fmi-standard/releases/tag/v2.0.4> ⭐ 383 | 🐛 45 | 🌐 C | 📅 2026-10-20 .
 Unless noted otherwise, the tools and libraries listed are compatible with FMI 2.
 
 ### Libraries
@@ -79,8 +79,8 @@ For the official list of tools that support FMI 2, check <http://fmi-standard.or
 
 * [λ-Sim](https://github.com/mbonvini/LambdaSim) ⭐ 56 | 🐛 1 | 🌐 JavaScript | 📅 2017-03-27 - Tool that converts FMU simulation models into REST APIs. \[MIT]
 * [FMU-proxy](https://github.com/NTNU-IHB/FMU-proxy/) ⚠️ Archived - Framework that allows Functional Mock-up Units (FMUs) to be accessed through language independent RPC calls and that permits to transform a co-simulation FMU into a proxified version of the same FMU, so that each FMU can run in a separate process. \[MIT]
-* [ROS fmi\_adapter](https://github.com/boschresearch/fmi_adapter) ⭐ 51 | 🐛 10 | 🌐 C++ | 📅 2026-05-21 - FMI support for [ROS](http://www.ros.org/), a flexible framework for writing robot software. \[APACHE2]
-* [fmi\_adapter\_ros2](https://github.com/boschresearch/fmi_adapter_ros2) ⭐ 51 | 🐛 10 | 🌐 C++ | 📅 2026-05-21 - FMI support for [ROS2](https://index.ros.org/doc/ros2/), the new version of the Robot Operating System. \[APACHE2]
+* [ROS fmi\_adapter](https://github.com/boschresearch/fmi_adapter) ⭐ 52 | 🐛 10 | 🌐 C++ | 📅 2026-05-21 - FMI support for [ROS](http://www.ros.org/), a flexible framework for writing robot software. \[APACHE2]
+* [fmi\_adapter\_ros2](https://github.com/boschresearch/fmi_adapter_ros2) ⭐ 52 | 🐛 10 | 🌐 C++ | 📅 2026-05-21 - FMI support for [ROS2](https://index.ros.org/doc/ros2/), the new version of the Robot Operating System. \[APACHE2]
 * [Unity-FMI-Addon](https://github.com/CATIA-Systems/Unity-FMI-Addon) ⭐ 48 | 🐛 10 | 🌐 C | 📅 2026-02-27 - FMI support for [Unity](https://unity3d.com/), a cross-platform game engine. \[BSD]
 * [FMITerminalBlock](https://github.com/AIT-IES/FMITerminalBlock) ⭐ 9 | 🐛 4 | 🌐 C++ | 📅 2018-04-11 -  Two way interface between the FMI and IEC 61499-based controllers. \[BSD]
 * [Dymola](https://www.dymola.com) - A modeling and simulation environment for Modelica, with full support for FMI. \[Commercial]
@@ -96,7 +96,7 @@ General information on the FMI 3.0 feature list can be found in <https://fmi-sta
 Some of the projects listed in the previous section also support for FMI 3 :
 
 * **Examples**:
-  * [Reference-FMUs](https://github.com/modelica/Reference-FMUs) ⭐ 240 | 🐛 27 | 🌐 C | 📅 2026-10-26 : `3.0` examples FMUs are available, including examples for new co-simulation features such as scheduled co-simulation and early return in co-simulation.
+  * [Reference-FMUs](https://github.com/modelica/Reference-FMUs) ⭐ 240 | 🐛 27 | 🌐 C | 📅 2026-10-30 : `3.0` examples FMUs are available, including examples for new co-simulation features such as scheduled co-simulation and early return in co-simulation.
   * [PMSFIT/FMI30TestFMUs](https://github.com/PMSFIT/FMI30TestFMUs) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2026-03-13 : Some examples FMUs based on the FMI 3.0 specification are available, including features such as binary variables.
 * **Modelica:**
   * [Dymola](https://www.dymola.com) - support for FMI `3.0` is available, including arrays, terminals, icons, event mode and early return.
@@ -125,4 +125,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
