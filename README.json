@@ -403,7 +403,7 @@
                     "license": "MIT",
                     "last_commit": "2026-11-01T04:43:00Z",
                     "open_issues": 28,
-                    "owner": "ThummeTo",
+                    "owner": "JuliaFMI",
                     "repo": "FMI.jl",
                     "stars": 96,
                     "topics": [
@@ -430,9 +430,9 @@
                     "id": 370655689,
                     "language": "Julia",
                     "license": "MIT",
-                    "last_commit": "2026-05-02T02:47:01Z",
-                    "open_issues": 16,
-                    "owner": "ThummeTo",
+                    "last_commit": "2026-11-04T16:37:18Z",
+                    "open_issues": 17,
+                    "owner": "JuliaFMI",
                     "repo": "FMIFlux.jl",
                     "stars": 62,
                     "topics": [
@@ -728,7 +728,7 @@
                 "license": "MIT",
                 "last_commit": "2026-11-01T04:43:00Z",
                 "open_issues": 28,
-                "owner": "ThummeTo",
+                "owner": "JuliaFMI",
                 "repo": "FMI.jl",
                 "stars": 96,
                 "topics": [
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T09:45:53.741Z",
+    "last_updated": "2026-11-05T09:47:30.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.",
