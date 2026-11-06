@@ -401,7 +401,7 @@
                     "id": 364329607,
                     "language": "Julia",
                     "license": "MIT",
-                    "last_commit": "2026-11-01T04:43:00Z",
+                    "last_commit": "2026-11-06T08:49:02Z",
                     "open_issues": 28,
                     "owner": "JuliaFMI",
                     "repo": "FMI.jl",
@@ -430,7 +430,7 @@
                     "id": 370655689,
                     "language": "Julia",
                     "license": "MIT",
-                    "last_commit": "2026-11-04T16:37:18Z",
+                    "last_commit": "2026-11-06T08:49:04Z",
                     "open_issues": 17,
                     "owner": "JuliaFMI",
                     "repo": "FMIFlux.jl",
@@ -503,7 +503,7 @@
                 "open_issues": 3,
                 "owner": "NTNU-IHB",
                 "repo": "FMU-proxy",
-                "stars": 54,
+                "stars": 53,
                 "topics": [
                   "apache-thrift",
                   "fmi",
@@ -726,7 +726,7 @@
                 "id": 364329607,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-11-01T04:43:00Z",
+                "last_commit": "2026-11-06T08:49:02Z",
                 "open_issues": 28,
                 "owner": "JuliaFMI",
                 "repo": "FMI.jl",
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T09:47:30.673Z",
+    "last_updated": "2026-11-06T09:46:11.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.",
