@@ -43,7 +43,7 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units) that su
 
 #### Python
 
-* [FMPy](https://github.com/CATIA-Systems/FMPy) ⭐ 600 | 🐛 170 | 🌐 Python | 📅 2026-11-02 - Python package for loading and interacting with FMUs. It supports also the latest [System Structure and Parameterization (SSP standard)](https://www.modelica.org/projects). \[BSD]
+* [FMPy](https://github.com/CATIA-Systems/FMPy) ⭐ 601 | 🐛 170 | 🌐 Python | 📅 2026-11-02 - Python package for loading and interacting with FMUs. It supports also the latest [System Structure and Parameterization (SSP standard)](https://www.modelica.org/projects). \[BSD]
 * [PyFMI](https://github.com/modelon-community/pyfmi) ⭐ 226 | 🐛 22 | 🌐 Python | 📅 2026-09-16 - Python package for loading and interacting with FMUs, based on the FMI Library. \[LGPL]
 * [PythonFMU](https://github.com/NTNU-IHB/PythonFMU) ⭐ 175 | 🐛 26 | 🌐 Python | 📅 2025-12-12 - Framework for exporting Python code as FMUs. \[MIT]
 * [modestpy](https://github.com/sdu-cfei/modest-py) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2022-06-22 - Python package for parameter estimation in FMUs. \[BSD]
@@ -96,12 +96,12 @@ General information on the FMI 3.0 feature list can be found in <https://fmi-sta
 Some of the projects listed in the previous section also support for FMI 3 :
 
 * **Examples**:
-  * [Reference-FMUs](https://github.com/modelica/Reference-FMUs) ⭐ 242 | 🐛 26 | 🌐 C | 📅 2026-10-30 : `3.0` examples FMUs are available, including examples for new co-simulation features such as scheduled co-simulation and early return in co-simulation.
+  * [Reference-FMUs](https://github.com/modelica/Reference-FMUs) ⭐ 242 | 🐛 27 | 🌐 C | 📅 2026-10-30 : `3.0` examples FMUs are available, including examples for new co-simulation features such as scheduled co-simulation and early return in co-simulation.
   * [PMSFIT/FMI30TestFMUs](https://github.com/PMSFIT/FMI30TestFMUs) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2026-03-13 : Some examples FMUs based on the FMI 3.0 specification are available, including features such as binary variables.
 * **Modelica:**
   * [Dymola](https://www.dymola.com) - support for FMI `3.0` is available, including arrays, terminals, icons, event mode and early return.
 * **Python:**
-  * [fmpy](https://github.com/CATIA-Systems/FMPy) ⭐ 600 | 🐛 170 | 🌐 Python | 📅 2026-11-02 - support for FMI `3.0` is available.
+  * [fmpy](https://github.com/CATIA-Systems/FMPy) ⭐ 601 | 🐛 170 | 🌐 Python | 📅 2026-11-02 - support for FMI `3.0` is available.
 * **Julia:**
   * [FMI.jl](https://github.com/ThummeTo/FMI.jl) ⭐ 96 | 🐛 24 | 🌐 Julia | 📅 2026-11-06  - experimental support for FMI `3.0` is work in progress
 * **Simulink:**
@@ -125,4 +125,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
