@@ -256,7 +256,7 @@
                     "open_issues": 14,
                     "owner": "LBNL-ETA",
                     "repo": "SimulatorToFMU",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:46.830Z"
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T10:11:44.203Z",
+    "last_updated": "2026-11-13T09:54:48.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.",
