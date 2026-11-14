@@ -199,7 +199,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-12-12T09:46:42Z",
-                    "open_issues": 26,
+                    "open_issues": 27,
                     "owner": "NTNU-IHB",
                     "repo": "PythonFMU",
                     "stars": 175,
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T09:54:48.939Z",
+    "last_updated": "2026-11-14T09:19:43.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.",
