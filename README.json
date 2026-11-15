@@ -348,7 +348,7 @@
                     "open_issues": 87,
                     "owner": "CATIA-Systems",
                     "repo": "FMIKit-Simulink",
-                    "stars": 183,
+                    "stars": 184,
                     "topics": [
                       "fmi",
                       "fmi-standard",
@@ -405,7 +405,7 @@
                     "open_issues": 24,
                     "owner": "JuliaFMI",
                     "repo": "FMI.jl",
-                    "stars": 96,
+                    "stars": 97,
                     "topics": [
                       "co-simulation",
                       "fmi",
@@ -730,7 +730,7 @@
                 "open_issues": 24,
                 "owner": "JuliaFMI",
                 "repo": "FMI.jl",
-                "stars": 96,
+                "stars": 97,
                 "topics": [
                   "co-simulation",
                   "fmi",
@@ -766,7 +766,7 @@
                 "open_issues": 87,
                 "owner": "CATIA-Systems",
                 "repo": "FMIKit-Simulink",
-                "stars": 183,
+                "stars": 184,
                 "topics": [
                   "fmi",
                   "fmi-standard",
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T09:19:43.851Z",
+    "last_updated": "2026-11-15T09:49:30.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.",
