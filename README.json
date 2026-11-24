@@ -645,7 +645,7 @@
                 "open_issues": 17,
                 "owner": "modelica",
                 "repo": "Reference-FMUs",
-                "stars": 243,
+                "stars": 244,
                 "topics": [
                   "fmi",
                   "fmi-standard",
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T11:08:19.865Z",
+    "last_updated": "2026-11-24T12:52:16.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.",
