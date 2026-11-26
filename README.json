@@ -156,7 +156,7 @@
                     "open_issues": 171,
                     "owner": "CATIA-Systems",
                     "repo": "FMPy",
-                    "stars": 601,
+                    "stars": 602,
                     "topics": [
                       "fmi",
                       "fmi-standard",
@@ -698,7 +698,7 @@
                 "open_issues": 171,
                 "owner": "CATIA-Systems",
                 "repo": "FMPy",
-                "stars": 601,
+                "stars": 602,
                 "topics": [
                   "fmi",
                   "fmi-standard",
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T11:38:53.731Z",
+    "last_updated": "2026-11-26T11:25:30.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.",
